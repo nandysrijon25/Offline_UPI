@@ -1,0 +1,1 @@
+UPI Offline Mesh — Send money in a basement with zero internet. Encrypted packets gossip from phone to phone until one with 4G reaches the backend.
